@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="uruguguay",COL-Directv Sports (720)
-http://tv.proyectox.vip:8080/riascos65/pzfuKGY7Vk/352477
-#EXTINF:-1 group-title="COLOMBIA",COL-Directv Sports + (T)(1080)
-http://tv.proyectox.vip:8080/riascos65/pzfuKGY7Vk/154284
-#EXTINF:-1 group-title="COLOMBIA",COL-Directv Sports (TV)(720)
-http://tv.proyectox.vip:8080/riascos65/pzfuKGY7Vk/154283
-#EXTINF:-1 group-title="ECUADOR",ECU-Directv Sports (e)
-http://tv.proyectox.vip:8080/riascos65/pzfuKGY7Vk/990
-#EXTINF:-1 group-title="ECUADOR",ECU-Directv Sports (e)(SD)
-http://tv.proyectox.vip:8080/riascos65/pzfuKGY7Vk/991
 #EXTINF:-1 group-title="SPORTS",TUDN LATIN US
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
 #EXTINF:-1 group-title="LATINO",UNIVISION
 http://live.lordstreams.co:8080/68541544/56220369/40649
-#EXTINF:-1 group-title="LATINO",FOOTBALL
-https://fonz02.dlive.click/iFErlUch-anX97LFh-iTgw/1720180964/33382e3235332e3134362e313535/ff495/playlist.m3u8
+#EXTINF:-1 group-title="LATINO",UNIVISION
+http://live.lordstreams.co:8080/68541544/56220369/40630
+#EXTINF:-1 group-title="LATINO",UNIVISION
+http://live.lordstreams.co:8080/68541544/56220369/4452
+#EXTINF:-1 group-title="SPORTS",DIRECTV SPORTS
+http://152.89.62.76:8880/29ca01293n03/rw32er23/49731
+#EXTINF:-1 group-title="SPORTS",WIN SPORTS PLUS HD (EXCLUSIVO)
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/78697
+
+
