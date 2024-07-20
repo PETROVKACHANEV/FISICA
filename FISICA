@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,LEAGUE SAX HD
+https://server4.betzta.com/l1max/index.m3u8?token=0a3885a472e83e67bf23fea2359f3c65e227d39d-01c9c1d5828b5be10f52074bd73b0ff4-1721521381-1721510581
+#EXTINF:-1,LEAGUE SAX 1 HD
+https://yxdlc29tzq.la10tv.com/liga1max/index.m3u8?token=2e019adf19a9c6dfaca08676bb39909421c26b86-d27cb66338707568365cd6214764db4f-1721546898-1721510898
 #EXTINF:-1 group-title="SPORTS",TUDN LATIN US
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
 #EXTM3U
@@ -378,9 +382,6 @@ http://8.243.126.131:8000/play/a02d/index.m3u8
 http://8.243.126.131:8000/play/a08h/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://8.243.126.131:8000/play/a07f/index.m3u8
-#EXTINF:-1,LEAGUE SAX HD
-https://server4.betzta.com/l1max/index.m3u8?token=0a3885a472e83e67bf23fea2359f3c65e227d39d-01c9c1d5828b5be10f52074bd73b0ff4-1721521381-1721510581
-#EXTINF:-1,LEAGUE SAX 1 HD
-https://yxdlc29tzq.la10tv.com/liga1max/index.m3u8?token=2e019adf19a9c6dfaca08676bb39909421c26b86-d27cb66338707568365cd6214764db4f-1721546898-1721510898
+
 
 
