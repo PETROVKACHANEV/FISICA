@@ -377,19 +377,6 @@ http://8.243.126.131:8000/play/a02d/index.m3u8
 http://8.243.126.131:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Win Sports+ HD
 http://8.243.126.131:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 (HD)
-http://newultra.xyz:8080/936664531tv/47hj3e/14826
-#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »1«
-http://newultra.xyz:8080/936664531tv/47hj3e/14827
-#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »2«
-http://newultra.xyz:8080/936664531tv/47hj3e/61474
-#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »3«
-http://newultra.xyz:8080/936664531tv/47hj3e/63060
-#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »4«
-http://newultra.xyz:8080/936664531tv/47hj3e/63061
-#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »5«
-http://newultra.xyz:8080/936664531tv/47hj3e/63062
-#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »6«
-http://newultra.xyz:8080/936664531tv/47hj3e/63059
+
 
 
