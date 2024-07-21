@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,LEAGUE SAX HD
-https://212.237.231.26/l1max/index.m3u8?token=0a3885a472e83e67bf23fea2359f3c65e227d39d-01c9c1d5828b5be10f52074bd73b0ff4-1721521381-1721510581
-#EXTINF:-1,LEAGUE SAX 1 HD
-https://yxdlc29tzq.la10tv.com/liga1max/index.m3u8?token=2e019adf19a9c6dfaca08676bb39909421c26b86-d27cb66338707568365cd6214764db4f-1721546898-1721510898
 #EXTINF:-1 group-title="SPORTS",TUDN LATIN US
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
 #EXTINF:-1,123 TV
@@ -103,31 +99,31 @@ http://8.243.249.70:8000/play/a03f/index.m3u8
 http://8.243.249.70:8000/play/a02j/index.m3u8
 #EXTINF:-1,ECUAVISA
 http://8.243.249.70:8000/play/a058/index.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="SPORTS",ESPN
 http://8.243.249.70:8000/play/a03i/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="SPORTS",ESPN 2 HD
 http://8.243.249.70:8000/play/a00l/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
+#EXTINF:-1 group-title="SPORTS",ESPN 2 Latin
 http://8.243.249.70:8000/play/a03h/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="SPORTS",ESPN 3 HD
 http://8.243.249.70:8000/play/a011/index.m3u8
-#EXTINF:-1,ESPN 4HD
+#EXTINF:-1 group-title="SPORTS",ESPN 4HD
 http://8.243.249.70:8000/play/a020/index.m3u8
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 group-title="SPORTS",ESPN 5
 http://8.243.249.70:8000/play/a045/index.m3u8
-#EXTINF:-1,ESPN 5HD
+#EXTINF:-1 group-title="SPORTS",ESPN 5HD
 http://8.243.249.70:8000/play/a01k/index.m3u8
-#EXTINF:-1,ESPN 6
+#EXTINF:-1 group-title="SPORTS",ESPN 6
 http://8.243.249.70:8000/play/a03s/index.m3u8
-#EXTINF:-1,ESPN 6HD
+#EXTINF:-1 group-title="SPORTS",ESPN 6HD
 http://8.243.249.70:8000/play/a012/index.m3u8
-#EXTINF:-1,ESPN 7
+#EXTINF:-1 group-title="SPORTS",ESPN 7
 http://8.243.249.70:8000/play/a03r/index.m3u8
-#EXTINF:-1,ESPN 7HD
+#EXTINF:-1 group-title="SPORTS",ESPN 7HD
 http://8.243.249.70:8000/play/a01l/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="SPORTS",ESPN HD
 http://8.243.249.70:8000/play/a00t/index.m3u8
-#EXTINF:-1,ESPN Premium HD
+#EXTINF:-1 group-title="SPORTS",ESPN Premium HD
 http://8.243.249.70:8000/play/a036/index.m3u8
 #EXTINF:-1,EWTN ESPAÑOL
 http://8.243.249.70:8000/play/a05d/index.m3u8
@@ -249,7 +245,7 @@ http://8.243.249.70:8000/play/a03y/index.m3u8
 http://8.243.249.70:8000/play/a02t/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://8.243.249.70:8000/play/a01p/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
+#EXTINF:-1 group-title="SPORTS",TNT Sports Premiun HD
 http://8.243.249.70:8000/play/a00k/index.m3u8
 #EXTINF:-1,TV CULTURAS
 http://8.243.249.70:8000/play/a05i/index.m3u8
@@ -265,9 +261,9 @@ http://8.243.249.70:8000/play/a04i/index.m3u8
 http://8.243.249.70:8000/play/a00v/index.m3u8
 #EXTINF:-1,Telemundo
 http://8.243.249.70:8000/play/a03t/index.m3u8
-#EXTINF:-1,TyC
+#EXTINF:-1 group-title="SPORTS",TyC
 http://8.243.249.70:8000/play/a03k/index.m3u8
-#EXTINF:-1,TyC Sports HD
+#EXTINF:-1 group-title="SPORTS",TyC Sports HD
 http://8.243.249.70:8000/play/a02p/index.m3u8
 #EXTINF:-1,UNITEL HD
 http://8.243.249.70:8000/play/a05m/index.m3u8
@@ -307,13 +303,13 @@ http://8.243.126.131:8000/play/a01w/index.m3u8
 http://8.243.126.131:8000/play/a01p/index.m3u8
 #EXTINF:-1,E! HD
 http://8.243.126.131:8000/play/a01j/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 group-title="SPORTS",ESPN EXTRA HD
 http://8.243.126.131:8000/play/a01q/index.m3u8
-#EXTINF:-1,ESPN PREMIUN HD
+#EXTINF:-1 group-title="SPORTS",ESPN PREMIUN HD
 http://8.243.126.131:8000/play/a024/index.m3u8
 #EXTINF:-1,EWTN SD LIBRE
 http://8.243.126.131:8000/play/a07z/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol HD
+#EXTINF:-1 group-title="SPORTS",ElCanaldelFutbol HD
 http://8.243.126.131:8000/play/a07c/index.m3u8
 #EXTINF:-1,Epoca SD
 http://8.243.126.131:8000/play/a08w/index.m3u8
@@ -321,7 +317,7 @@ http://8.243.126.131:8000/play/a08w/index.m3u8
 http://8.243.126.131:8000/play/a090/index.m3u8
 #EXTINF:-1,Food Network HD
 http://8.243.126.131:8000/play/a01m/index.m3u8
-#EXTINF:-1,GolTV HD
+#EXTINF:-1 group-title="SPORTS",GolTV HD
 http://8.243.126.131:8000/play/a01k/index.m3u8
 #EXTINF:-1,Golden HD
 http://8.243.126.131:8000/play/a01g/index.m3u8
@@ -347,7 +343,7 @@ http://8.243.126.131:8000/play/a014/index.m3u8
 http://8.243.126.131:8000/play/a02b/index.m3u8
 #EXTINF:-1,MTV LIVE HD
 http://8.243.126.131:8000/play/a029/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
+#EXTINF:-1 group-title="SPORTS",Movistar Deportes HD
 http://8.243.126.131:8000/play/a01f/index.m3u8
 #EXTINF:-1,MÆsChic SD
 http://8.243.126.131:8000/play/a08i/index.m3u8
@@ -375,12 +371,25 @@ http://8.243.126.131:8000/play/a08c/index.m3u8
 http://8.243.126.131:8000/play/a08s/index.m3u8
 #EXTINF:-1,Tooncast SD
 http://8.243.126.131:8000/play/a08x/index.m3u8
-#EXTINF:-1,TyC Sports HD
+#EXTINF:-1 group-title="SPORTS",TyC Sports HD
 http://8.243.126.131:8000/play/a02d/index.m3u8
 #EXTINF:-1,Venevision Plus SD
 http://8.243.126.131:8000/play/a08h/index.m3u8
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 group-title="SPORTS",Win Sports+ HD
 http://8.243.126.131:8000/play/a07f/index.m3u8
-
+#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 (HD)
+http://newultra.xyz:8080/936664531tv/47hj3e/14826
+#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »1«
+http://newultra.xyz:8080/936664531tv/47hj3e/14827
+#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »2«
+http://newultra.xyz:8080/936664531tv/47hj3e/61474
+#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »3«
+http://newultra.xyz:8080/936664531tv/47hj3e/63060
+#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »4«
+http://newultra.xyz:8080/936664531tv/47hj3e/63061
+#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »5«
+http://newultra.xyz:8080/936664531tv/47hj3e/63062
+#EXTINF:-1 group-title="SPORTS",PE• LIGA 1 MAX (HD) »6«
+http://newultra.xyz:8080/936664531tv/47hj3e/63059
 
 
