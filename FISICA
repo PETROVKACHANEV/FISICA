@@ -377,6 +377,16 @@ http://8.243.126.131:8000/play/a02d/index.m3u8
 http://8.243.126.131:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Win Sports+ HD
 http://8.243.126.131:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="SPORTS",CPP OP2
+http://totalplay.site:80/leonfull2022/Leon0000full/208114.ts
+#EXTINF:-1 group-title="SPORTS",CPPX OP1
+http://totalplay.site:80/leonfull2022/Leon0000full/208115.ts
+#EXTINF:-1 group-title="SPORTS",CPPX OP3
+http://totalplay.site:80/leonfull2022/Leon0000full/208116.ts
+#EXTINF:-1 group-title="SPORTS",CPPX OP4
+http://totalplay.site:80/leonfull2022/Leon0000full/208117.ts
+#EXTINF:-1 group-title="SPORTS",CPPX OP5
+http://totalplay.site:80/leonfull2022/Leon0000full/208118.ts
 
 
 
