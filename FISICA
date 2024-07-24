@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS",PPX OP1
+http://newultra.xyz:8080/936664531tv/47hj3e/14827
+#EXTINF:-1 group-title="SPORTS",PPX OP2
+http://newultra.xyz:8080/936664531tv/47hj3e/61474
+#EXTINF:-1 group-title="SPORTS",PPX OP3
+http://newultra.xyz:8080/936664531tv/47hj3e/63060
+#EXTINF:-1 group-title="SPORTS",PPX OP4
+http://newultra.xyz:8080/936664531tv/47hj3e/63061
+#EXTINF:-1 group-title="SPORTS",PPX OP5
+http://newultra.xyz:8080/936664531tv/47hj3e/63062
+#EXTINF:-1 group-title="SPORTS",PPX OP6
+http://newultra.xyz:8080/936664531tv/47hj3e/63059
 #EXTINF:-1 group-title="SPORTS",TUDN LATIN US
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
 #EXTINF:-1,123 TV
