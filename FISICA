@@ -1,11 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS, TESTA
-http://192.168.18.4:8080/SOFY/index.m3u8
-#EXTINF:-1 group-title="SPORTS, TESTA 1
-http://192.168.18.4:8080/SOFY.ts
-#EXTINF:-1 group-title="SPORTS, TESTA 2
-http://192.168.18.4:8080/SOFY/index.ts
-
+http://192.168.18.4:8080/SOFY
 #EXTINF:-1 group-title="SPORTS",PPX OP1
 http://newultra.xyz:8080/936664531tv/47hj3e/14827
 #EXTINF:-1 group-title="SPORTS",PPX OP2
