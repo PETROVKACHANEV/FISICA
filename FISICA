@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS, TESTA
-https://192.168.18.4:8080/XSOFYX
+https://192.168.18.4:8080/play/XSOFYX
 #EXTINF:-1 group-title="SPORTS, ASTRO
 https://server.betzta.com/lb/l1max/index.m3u8?token=a007ab05d86dc00d1f8295c571ba8284dde43bfc-c9d40cf8e990348b8553735e118dc433-1721982415-1721971615
 #EXTINF:-1 group-title="SPORTS",PPX OP1
