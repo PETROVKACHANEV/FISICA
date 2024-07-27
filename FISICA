@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS", ESNP DEP US
+http://live.lordstreams.co:8080/68541544/56220369/3639
+#EXTINF:-1 group-title="SPORTS", ESNP DEP USMEX
+http://live.lordstreams.co:8080/68541544/56220369/2578
+#EXTINF:-1 group-title="SPORTS",PREMIER
+http://14225021914.com:80/805799637/m570p3301a/52089
 #EXTINF:-1 group-title="SPORTS",PPX OP1
 http://newultra.xyz:8080/936664531tv/47hj3e/14827
 #EXTINF:-1 group-title="SPORTS",PPX OP2
