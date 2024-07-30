@@ -1,24 +1,117 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS", ESNP DEP US
-http://live.lordstreams.co:8080/68541544/56220369/3639
-#EXTINF:-1 group-title="SPORTS", ESNP DEP USMEX
-http://live.lordstreams.co:8080/68541544/56220369/2578
-#EXTINF:-1 group-title="SPORTS",PREMIER
-http://14225021914.com:80/805799637/m570p3301a/52089
-#EXTINF:-1 group-title="SPORTS",PPX OP1
-http://newultra.xyz:8080/936664531tv/47hj3e/14827
-#EXTINF:-1 group-title="SPORTS",PPX OP2
-http://newultra.xyz:8080/936664531tv/47hj3e/61474
-#EXTINF:-1 group-title="SPORTS",PPX OP3
-http://newultra.xyz:8080/936664531tv/47hj3e/63060
-#EXTINF:-1 group-title="SPORTS",PPX OP4
-http://newultra.xyz:8080/936664531tv/47hj3e/63061
-#EXTINF:-1 group-title="SPORTS",PPX OP5
-http://newultra.xyz:8080/936664531tv/47hj3e/63062
-#EXTINF:-1 group-title="SPORTS",PPX OP6
-http://newultra.xyz:8080/936664531tv/47hj3e/63059
-#EXTINF:-1 group-title="SPORTS",TUDN LATIN US
-http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
+TINF:-1,003 CNN Chile HD
+http://45.181.122.13:8000/play/003
+#EXTINF:-1,004 Canal 24 Horas HD
+http://45.181.122.13:8000/play/004
+#EXTINF:-1,005 La Red HD
+http://45.181.122.13:8000/play/005
+#EXTINF:-1,006 TV+ HD
+http://45.181.122.13:8000/play/006
+#EXTINF:-1,007 TVN HD
+http://45.181.122.13:8000/play/007
+#EXTINF:-1,009 MEGA HD
+http://45.181.122.13:8000/play/009
+#EXTINF:-1,011 CHV HD
+http://45.181.122.13:8000/play/011
+#EXTINF:-1,013 Canal 13 HD
+http://45.181.122.13:8000/play/013
+#EXTINF:-1,015 Cartoon Network
+http://45.181.122.13:8000/play/015
+#EXTINF:-1,016 Tooncast
+http://45.181.122.13:8000/play/016
+#EXTINF:-1,017 Discovery Kids HD
+http://45.181.122.13:8000/play/017
+#EXTINF:-1,018 disney JR
+http://45.181.122.13:8000/play/018
+#EXTINF:-1,019 Nickelodeon
+http://45.181.122.13:8000/play/019
+#EXTINF:-1,020 BabyFirst
+http://45.181.122.13:8000/play/020
+#EXTINF:-1,021 Disney HD
+http://45.181.122.13:8000/play/021
+#EXTINF:-1,022 Discovery Turbo
+http://45.181.122.13:8000/play/022
+#EXTINF:-1,025 FTV
+http://45.181.122.13:8000/play/025
+#EXTINF:-1,027 Cinecanal
+http://45.181.122.13:8000/play/027
+#EXTINF:-1,028 Cinemax
+http://45.181.122.13:8000/play/028
+#EXTINF:-1,030 STAR CHANNEL HD
+http://45.181.122.13:8000/play/030
+#EXTINF:-1,032 UNIVERSAL CHANNEL HD
+http://45.181.122.13:8000/play/032
+#EXTINF:-1,034Paramount HD
+http://45.181.122.13:8000/play/a08e
+#EXTINF:-1,036 Telenovelas
+http://45.181.122.13:8000/play/036
+#EXTINF:-1,038 TNT HD
+http://45.181.122.13:8000/play/038
+#EXTINF:-1,039 TNT Novelas HD
+http://45.181.122.13:8000/play/039
+#EXTINF:-1,041 HBO
+http://45.181.122.13:8000/play/041
+#EXTINF:-1,042 HBO 2 HD
+http://45.181.122.13:8000/play/042
+#EXTINF:-1,043 HBO Family HD
+http://45.181.122.13:8000/play/043
+#EXTINF:-1,045 HBO XTREME HD
+http://45.181.122.13:8000/play/045
+#EXTINF:-1,047 Universal
+http://45.181.122.13:8000/play/047
+#EXTINF:-1,049 A&E HD
+http://45.181.122.13:8000/play/049
+#EXTINF:-1,050 TCM
+http://45.181.122.13:8000/play/050
+#EXTINF:-1,052 FX
+http://45.181.122.13:8000/play/052
+#EXTINF:-1,054 Warner Channel HD
+http://45.181.122.13:8000/play/054
+#EXTINF:-1,056 Lifetime
+http://45.181.122.13:8000/play/056
+#EXTINF:-1,058 SyFy
+http://45.181.122.13:8000/play/058
+#EXTINF:-1,060 ID HD
+http://45.181.122.13:8000/play/060
+#EXTINF:-1,062 Discovery H&H HD
+http://45.181.122.13:8000/play/062
+#EXTINF:-1,064 Discovery Theater HD
+http://45.181.122.13:8000/play/064
+#EXTINF:-1,066 El Gourmet HD
+http://45.181.122.13:8000/play/066
+#EXTINF:-1,068 Las Estrellas HD
+http://45.181.122.13:8000/play/068
+#EXTINF:-1,070 History Channel
+http://45.181.122.13:8000/play/070
+#EXTINF:-1,072 History 2 HD
+http://45.181.122.13:8000/play/072
+#EXTINF:-1,074 MX Family HD
+http://45.181.122.13:8000/play/074
+#EXTINF:-1,078 MX Classic HD
+http://45.181.122.13:8000/play/078
+#EXTINF:-1,080 MX Prime HD
+http://45.181.122.13:8000/play/080
+#EXTINF:-1,082 MX OLD HD
+http://45.181.122.13:8000/play/082
+#EXTINF:-1,084 MTV HD
+http://45.181.122.13:8000/play/084
+#EXTINF:-1,086  MTV LIVE HD
+http://45.181.122.13:8000/play/086
+#EXTINF:-1,088 Zona Latina
+http://45.181.122.13:8000/play/088
+#EXTINF:-1,090 TNT SPORTS HD
+http://45.181.122.13:8000/play/090
+#EXTINF:-1,092 ESPN HD
+http://45.181.122.13:8000/play/092
+#EXTINF:-1,094 ESPN 2 HD
+http://45.181.122.13:8000/play/094
+#EXTINF:-1,096 ESPN 3
+http://45.181.122.13:8000/play/096
+#EXTINF:-1,098 ESPN 4 HD
+http://45.181.122.13:8000/play/098
+#EXTINF:-1,100 ESPN PREMIUM
+http://45.181.122.13:8000/play/100
+
 #EXTINF:-1,123 TV
 http://8.243.249.70:8000/play/a04n/index.m3u8
 #EXTINF:-1,A&E HD
@@ -299,96 +392,30 @@ http://8.243.249.70:8000/play/a03e/index.m3u8
 http://8.243.249.70:8000/play/a00h/index.m3u8
 #EXTINF:-1,ZOOM
 http://8.243.249.70:8000/play/a05k/index.m3u8
-#EXTINF:-1,Adult Swim SD
-http://8.243.126.131:8000/play/a093/index.m3u8
-#EXTINF:-1,Antena 3 SD
-http://8.243.126.131:8000/play/a08l/index.m3u8
-#EXTINF:-1,CNN Chile SD
-http://8.243.126.131:8000/play/a08k/index.m3u8
-#EXTINF:-1,Canal 1 HD
-http://8.243.126.131:8000/play/a07a/index.m3u8
-#EXTINF:-1,Canal 13 HD
-http://8.243.126.131:8000/play/a072/index.m3u8
-#EXTINF:-1,Caracol HD
-http://8.243.126.131:8000/play/a076/index.m3u8
-#EXTINF:-1,City TV SD
-http://8.243.126.131:8000/play/a08v/index.m3u8
-#EXTINF:-1,DW Espaæol SD
-http://8.243.126.131:8000/play/a092/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://8.243.126.131:8000/play/a01w/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://8.243.126.131:8000/play/a01p/index.m3u8
-#EXTINF:-1,E! HD
-http://8.243.126.131:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="SPORTS",ESPN EXTRA HD
-http://8.243.126.131:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="SPORTS",ESPN PREMIUN HD
-http://8.243.126.131:8000/play/a024/index.m3u8
-#EXTINF:-1,EWTN SD LIBRE
-http://8.243.126.131:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="SPORTS",ElCanaldelFutbol HD
-http://8.243.126.131:8000/play/a07c/index.m3u8
-#EXTINF:-1,Epoca SD
-http://8.243.126.131:8000/play/a08w/index.m3u8
-#EXTINF:-1,Eurochannel SD
-http://8.243.126.131:8000/play/a090/index.m3u8
-#EXTINF:-1,Food Network HD
-http://8.243.126.131:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="SPORTS",GolTV HD
-http://8.243.126.131:8000/play/a01k/index.m3u8
-#EXTINF:-1,Golden HD
-http://8.243.126.131:8000/play/a01g/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://8.243.126.131:8000/play/a01t/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://8.243.126.131:8000/play/a01a/index.m3u8
-#EXTINF:-1,HBO HD
-http://8.243.126.131:8000/play/a01u/index.m3u8
-#EXTINF:-1,HBO Plus SD
-http://8.243.126.131:8000/play/a094/index.m3u8
-#EXTINF:-1,HBO Signature SD
-http://8.243.126.131:8000/play/a095/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://8.243.126.131:8000/play/a01b/index.m3u8
-#EXTINF:-1,History 2 HD
-http://8.243.126.131:8000/play/a019/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://8.243.126.131:8000/play/a04s/index.m3u8
-#EXTINF:-1,Lolly Kids HD
-http://8.243.126.131:8000/play/a014/index.m3u8
-#EXTINF:-1,MEGA HD
-http://8.243.126.131:8000/play/a02b/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://8.243.126.131:8000/play/a029/index.m3u8
-#EXTINF:-1 group-title="SPORTS",Movistar Deportes HD
-http://8.243.126.131:8000/play/a01f/index.m3u8
-#EXTINF:-1,MÆsChic SD
-http://8.243.126.131:8000/play/a08i/index.m3u8
-#EXTINF:-1,RAI SD
-http://8.243.126.131:8000/play/a091/index.m3u8
-#EXTINF:-1,RCN HD
-http://8.243.126.131:8000/play/a027/index.m3u8
-#EXTINF:-1,RED Televisiðn SD
-http://8.243.126.131:8000/play/a07t/index.m3u8
-#EXTINF:-1,RPP SD
-http://8.243.126.131:8000/play/a07s/index.m3u8
-#EXTINF:-1,Stingray Concerts HD
-http://8.243.126.131:8000/play/a03v/index.m3u8
-#EXTINF:-1,Sun Channel HD
-http://8.243.126.131:8000/play/a028/index.m3u8
-#EXTINF:-1,TNT Novelas HD
-http://8.243.126.131:8000/play/a04q/index.m3u8
-#EXTINF:-1,TV+ HD FREE
-http://8.243.126.131:8000/play/a02a/index.m3u8
-#EXTINF:-1,Teleantioquia SD
-http://8.243.126.131:8000/play/a08u/index.m3u8
-#EXTINF:-1,Telecanal SD
-http://8.243.126.131:8000/play/a08c/index.m3u8
-#EXTINF:-1,Telesur SD
-http://8.243.126.131:8000/play/a08s/index.m3u8
-#EXTINF:-1,Tooncast SD
-http://8.243.126.131:8000/play/a08x/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://bdtb.io:80/252254/27d26C/191301.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://bdtb.io:80/252254/27d26C/191302.ts
+#EXTINF:-1 group-title="SPORTS", ESNP DEP US
+http://live.lordstreams.co:8080/68541544/56220369/3639
+#EXTINF:-1 group-title="SPORTS", ESNP DEP USMEX
+http://live.lordstreams.co:8080/68541544/56220369/2578
+#EXTINF:-1 group-title="SPORTS",PREMIER
+http://14225021914.com:80/805799637/m570p3301a/52089
+#EXTINF:-1 group-title="SPORTS",PPX OP1
+http://newultra.xyz:8080/936664531tv/47hj3e/14827
+#EXTINF:-1 group-title="SPORTS",PPX OP2
+http://newultra.xyz:8080/936664531tv/47hj3e/61474
+#EXTINF:-1 group-title="SPORTS",PPX OP3
+http://newultra.xyz:8080/936664531tv/47hj3e/63060
+#EXTINF:-1 group-title="SPORTS",PPX OP4
+http://newultra.xyz:8080/936664531tv/47hj3e/63061
+#EXTINF:-1 group-title="SPORTS",PPX OP5
+http://newultra.xyz:8080/936664531tv/47hj3e/63062
+#EXTINF:-1 group-title="SPORTS",PPX OP6
+http://newultra.xyz:8080/936664531tv/47hj3e/63059
+#EXTINF:-1 group-title="SPORTS",TUDN LATIN US
+http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
 #EXTINF:-1 group-title="SPORTS",TyC Sports HD
 http://8.243.126.131:8000/play/a02d/index.m3u8
 #EXTINF:-1,Venevision Plus SD
@@ -407,5 +434,13 @@ http://totalplay.site:80/leonfull2022/Leon0000full/208117.ts
 http://totalplay.site:80/leonfull2022/Leon0000full/208118.ts
 #EXTINF:-1 group-title="SPORTS",PMONT BRA
 http://14225021914.com:80/805799637/m570p3301a/250562
+#EXTINF:-1 group-title="SPORTS",CLASPO 
+http://190.107.144.14:25461/live/Herrera28/1234/75.m3u8   
+#EXTINF:-1 group-title="SPORTS",CLASPO 3
+http://181.78.105.146:6060/play/a05a/index.m3u8  
+#EXTINF:-1 group-title="SPORTS",DSPO
+http://newultra.xyz:8080/936664531tv/47hj3e/63119  
+#EXTINF:-1 group-title="SPORTS",CLASPO TL
+http://newultra.xyz:8080/936664531tv/47hj3e/68044 
 
 
