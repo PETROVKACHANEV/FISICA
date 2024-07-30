@@ -1,5 +1,5 @@
 #EXTM3U
-TINF:-1,003 CNN Chile HD
+#EXTINF:-1,003 CNN Chile HD
 http://45.181.122.13:8000/play/003
 #EXTINF:-1,004 Canal 24 Horas HD
 http://45.181.122.13:8000/play/004
