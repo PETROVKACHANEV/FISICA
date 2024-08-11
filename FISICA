@@ -299,3 +299,5 @@ http://streamsy.online:2999/korrigan17/25AUFBdqOi/14491
 http://newultra.xyz:8080/936664531tv/47hj3e/68044
 #EXTINF:-1 group-title="SPORTS", PPX
 http://190.119.123.220:4000/play/liga1max/index.m3u8
+#EXTINF:-1,TUDN HD
+http://190.185.121.102:58092/play/a00m
