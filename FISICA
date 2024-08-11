@@ -295,9 +295,11 @@ http://14225021914.com:80/805799637/m570p3301a/250562
 http://181.78.105.146:6060/play/a05a/index.m3u8
 #EXTINF:-1 group-title="SPORTS",DSPO
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/14491
-#EXTINF:-1 group-title="SPORTS",CLASPO TL
-http://newultra.xyz:8080/936664531tv/47hj3e/68044
 #EXTINF:-1 group-title="SPORTS", PPX
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/2159178
+#EXTINF:-1 group-title="SPORTS", PPX 1
 http://190.119.123.220:4000/play/liga1max/index.m3u8
-#EXTINF:-1,TUDN HD
+#EXTINF:-1 group-title="SPORTS",TUDN HD
 http://190.185.121.102:58092/play/a00m
+#EXTINF:-1 group-title="SPORTS", LILA SP
+http://190.185.121.102:58092/play/a00t
