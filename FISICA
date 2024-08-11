@@ -283,32 +283,12 @@ http://live.lordstreams.co:8080/68541544/56220369/3639
 http://live.lordstreams.co:8080/68541544/56220369/2578
 #EXTINF:-1 group-title="SPORTS",PREMIER
 http://14225021914.com:80/805799637/m570p3301a/52089
-#EXTINF:-1 group-title="SPORTS",PPX OP1
-http://newultra.xyz:8080/936664531tv/47hj3e/14827
-#EXTINF:-1 group-title="SPORTS",PPX OP2
-http://newultra.xyz:8080/936664531tv/47hj3e/61474
-#EXTINF:-1 group-title="SPORTS",PPX OP3
-http://newultra.xyz:8080/936664531tv/47hj3e/63060
-#EXTINF:-1 group-title="SPORTS",PPX OP4
-http://newultra.xyz:8080/936664531tv/47hj3e/63061
-#EXTINF:-1 group-title="SPORTS",PPX OP5
-http://newultra.xyz:8080/936664531tv/47hj3e/63062
 #EXTINF:-1 group-title="SPORTS",TUDN LATIN US
 http://tv14s.xyz:8080/katelindolega@gmail.com/katelindolega@2022/21644
 #EXTINF:-1 group-title="SPORTS",TyC Sports HD
 http://8.243.126.131:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="SPORTS",Win Sports+ HD
 http://8.243.126.131:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="SPORTS",CPP OP2
-http://totalplay.site:80/leonfull2022/Leon0000full/208114.ts
-#EXTINF:-1 group-title="SPORTS",CPPX OP1
-http://totalplay.site:80/leonfull2022/Leon0000full/208115.ts
-#EXTINF:-1 group-title="SPORTS",CPPX OP3
-http://totalplay.site:80/leonfull2022/Leon0000full/208116.ts
-#EXTINF:-1 group-title="SPORTS",CPPX OP4
-http://totalplay.site:80/leonfull2022/Leon0000full/208117.ts
-#EXTINF:-1 group-title="SPORTS",CPPX OP5
-http://totalplay.site:80/leonfull2022/Leon0000full/208118.ts
 #EXTINF:-1 group-title="SPORTS",PMONT BRA
 http://14225021914.com:80/805799637/m570p3301a/250562
 #EXTINF:-1 group-title="SPORTS",CLASPO 3
@@ -317,3 +297,5 @@ http://181.78.105.146:6060/play/a05a/index.m3u8
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/14491
 #EXTINF:-1 group-title="SPORTS",CLASPO TL
 http://newultra.xyz:8080/936664531tv/47hj3e/68044
+#EXTINF:-1 group-title="SPORTS", PPX
+http://190.119.123.220:4000/play/liga1max/index.m3u8
