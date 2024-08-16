@@ -301,28 +301,27 @@ http://main.light-ott.net:80/CGUXMRT/PydW8tq7Cc/374258
 http://190.119.123.220:4000/play/liga1max/index.m3u8
 #EXTINF:-1 group-title="SPORTS", PPX 2
 http://main.light-ott.net:80/D61FF5D/TGE2PMZ/374258
+#EXTINF:-1 group-title="SPORTS", PX3 
+http://chuckyguys.eu:2082/live/javiernavarra/xH28SJnyzM/215677.ts
+#EXTINF:-1 group-title="SPORTS",L1
+http://papus.pro:2082/BTT*665/ayyq37kY9R5t/481901
 #EXTINF:-1 group-title="SPORTS",TUDN HD
 http://190.185.121.102:58092/play/a00m
 #EXTINF:-1 group-title="SPORTS", GOL SP
 http://444358275477888925.ofre802.xyz:80/live/Nada0305/Aeetwffww121/888925.ts
-#EXTINF:-1 group-title="SPORTS",L1
-http://papus.pro:2082/BTT*665/ayyq37kY9R5t/481901
-#EXTINF:-1 group-title="SPORTS", PX3 
-http://chuckyguys.eu:2082/live/javiernavarra/xH28SJnyzM/215677.ts
 #EXTINF:-1 group-title="SPORTS",AZTECA
 http://chuckyguys.eu:2082/live/javiernavarra/xH28SJnyzM/214906.ts
 #EXTINF:-1 group-title="SPORTS",ligue s
 http://live.odin14.xyz:8080/Gonza/gonchi21/5872
 #EXTINF:-1 group-title="SPORTS", B
-http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/94464
+http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/94464.ts
 #EXTINF:-1 group-title="SPORTS", C
 http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/94465.ts
 #EXTINF:-1 group-title="SPORTS", D
-http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/94758
+http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/94758.ts
 #EXTINF:-1 group-title="SPORTS", E
-http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/94760
-#EXTINF:-1 group-title="SPORTS",L1
-http://papus.pro:2082/BTT*665/ayyq37kY9R5t/481901
+http://sansat.net:88/uEYdkhJdphpGjQ6/xoOpRvdQVASBDYX/94760.ts
+
 
 
 
