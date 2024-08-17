@@ -97,6 +97,8 @@ http://8.243.249.70:8000/play/a02j/index.m3u8
 http://8.243.249.70:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN
 http://8.243.249.70:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN HDX
+http://190.60.38.114:1010/play/a096/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN 2 HD
 http://8.243.249.70:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN 2 Latin
